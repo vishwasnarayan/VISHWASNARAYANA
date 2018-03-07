@@ -1,0 +1,7 @@
+#include<stdio.h> //this is fp rthe c program
+#inlcude<dos.h>
+#include<time,h>
+#include<iomanip.h>
+#include<cmath.h>
+#include<conio.h>
+#include<graphics.h>
